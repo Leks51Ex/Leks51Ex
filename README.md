@@ -1,5 +1,5 @@
 
-[![Header](https://github.com/Leks51Ex/Leks51Ex/blob/main/assets/images.png)](linkedin.com/in/alexey-bulat-5264a525a)
+[![Header](https://github.com/Leks51Ex/Leks51Ex/blob/main/assets/images.png)](https://www.linkedin.com/in/alexey-bulat-5264a525a/)
 ## I'm a QA Engineer! 
  
 ## My CV
